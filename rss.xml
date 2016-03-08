@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[New Reality Media]]></title>
+        <description><![CDATA[New Reality Media]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 04:15:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My boy Aayden]]></title>
+            <description><![CDATA[<article><h1>My boy Aayden</h1><p>This is my first post on the new GRID app.  Wonder how it is going to look!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72123c4158ee66ab2464d60919bce9d5dbf1b558.jpg"></article>]]></description>
+            <link>undefineddd8f4fe9-7b92-4729-a823-0026663c0e6c/index.html</link>
+            <guid isPermaLink="false">dd8f4fe9-7b92-4729-a823-0026663c0e6c</guid>
+            <pubDate>Tue, 08 Mar 2016 04:13:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
