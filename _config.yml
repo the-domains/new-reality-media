@@ -1,0 +1,28 @@
+name: New Reality Media
+favicon: null
+layout_spectrum: 0.05593851348385215
+typography_spectrum: 0.08356418367475271
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8550239910837263
+  lightness: 0.6390409495215863
+  saturation: 0.38133809505961835
+  rhythmicContrast: 0.2650795003864914
+purpose: []
